@@ -1,3 +1,4 @@
+/* Note=> I have written with function method like a high level user */
 #include <stdio.h>
 
 // Function to take input for the array
